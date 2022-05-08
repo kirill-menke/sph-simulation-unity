@@ -1,10 +1,8 @@
-# PBS-Project
+# Real-Time SPH Simulation in Unity using C# and HLSL
 
-This project was developed by three students as a part of a course at the university.
-The goal was to simulate water particles in real time using the SPH algorithm. We use unity as a development environment and for rendering.
+The goal of this project was to simulate water particles in real time using the SPH algorithm.
 
 A written report, for the time being still in German, can be found below.
-
 
 # Report
 
